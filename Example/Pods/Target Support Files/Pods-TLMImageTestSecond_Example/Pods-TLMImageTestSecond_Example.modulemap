@@ -1,0 +1,6 @@
+framework module Pods_TLMImageTestSecond_Example {
+  umbrella header "Pods-TLMImageTestSecond_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
